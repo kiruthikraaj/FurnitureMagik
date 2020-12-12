@@ -19,6 +19,34 @@ A Native Android Application buid with React Native and Authentication (Phone) u
 <br/>
 <br/>
 
+
+# Features
+
+Login with Phone using Firebase Auth<br/>
+<ul>
+    <li>Login: user credentials is stored so that the next time user no need to login again</li>
+    <li>Logout</li>
+</ul>
+
+
+
+<h2>Storage</h2>
+Storage using AsyncStorage<br/>
+<ul>
+    <li>SQLITE</li>
+    <li>ROCKSDB</li>
+</ul>
+<br/>
+<h2>Adding Offer:</h2>
+<h3>Image</h3>
+<ul>
+    <li>Gallery</li>
+    <li>Camera</li>
+</ul>
+<br/>
+
+
+
 # Screens
 
 <div style="text-align: center"><table><tr>
