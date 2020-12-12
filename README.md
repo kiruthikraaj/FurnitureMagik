@@ -11,6 +11,13 @@ A Native Android Application buid with React Native and Authentication (Phone) u
 <br/>
 <br/>
 
+<p align="center">
+    <a href="https://drive.google.com/file/d/1PQSH-7WL3xL-F83U5lcwgrNt44Q89gGT/view?usp=sharing" target="_blank">
+        <img alt="android" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" width="50"/> <br/>Click to Download APK
+    </a>
+</p>
+<br/>
+<br/>
 
 # Screens
 
