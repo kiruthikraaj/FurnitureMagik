@@ -24,7 +24,7 @@ A Native Android Application buid with React Native and Authentication (Phone) u
 
 Login with Phone using Firebase Auth<br/>
 <ul>
-    <li>Login: user credentials is stored so that the next time user no need to login again</li>
+    <li>Login</li>
     <li>Logout</li>
 </ul>
 
