@@ -55,8 +55,8 @@ Storage using AsyncStorage<br/>
     </td>
     <td style="">
        <h1>Login Screen :</h1>
-       <p>The designed app fo the given requirement consit of login page as its first page.<br>
-       the input is only mobile number and we can proceed only when the number is valid.<br>
+       <p>The designed app for the given requirement consist of login page as its first page.<br>
+       The input is only mobile number and we can proceed only when the number is valid.<br>
        </p>
     </td>
 </tr>
@@ -67,9 +67,9 @@ Storage using AsyncStorage<br/>
     <td style="">
        <h1>OTP Validation :</h1>
        <p>
-       After the validation of the mobile number it is verified with a help of firebase autthentication (Phone Auth)<br>
-       6 digit OTP is received to the corresponding mobile number. Once the entered otp matches with the generated.<br>
-       We can proceed to the next page.<br></p>
+       After the validation of the mobile number, it is verified with a help of firebase authentication (Phone Auth).<br>
+       6 digit OTP is received to the corresponding mobile number. Once the entered OTP matches with the generated,<br>
+       we can proceed to the next page.<br></p>
     </td>
 </tr>
 
@@ -80,17 +80,17 @@ Storage using AsyncStorage<br/>
     <td style="">
        <h1>Home Screen :</h1>
        <p>
-       Login page leads us right here to the home page:<br>
-       the uid generated for every mobile number durng the time<br> 
+       Login page leads us right here to the home page.<br>
+       The UID generated for every mobile number during the time<br> 
        of login is the storeKey where all the offers (data) get stored.
       </p><br>
       <h3>Database: (AsyncStorage)</h3><br>
 The database (Storage unit) used here is AsyncStorage. <br>
-Depending on what the android device has in it, the asyncstorage uses either <b>SQLITE or ROCKSDB</b>.<br>
-Now with the <b>storekey</b> if there is no data stored then the page that says no offers (data) to displays.<br>
- If the storekey has offers (data) in it then all the offers are displayed in the Flatslit.<br>
+Depending on what the android device has in it, the AsyncStorage uses either <b>SQLITE or ROCKSDB</b>.<br>
+Now with the <b>storeKey</b>, if there is no data stored then the page says no offers (data) to displays.<br>
+ If the storeKey has offers (data) in it then all the offers are displayed in the Flatlist.<br>
 
- this page also contains a <b>floating action bar (FAB)</b> denoting 'plus', <br>
+ This page also contains a <b>floating action bar (FAB)</b> denoting 'plus', <br>
  further navigating to a page where you add data on clicking it.<br>
     </td>
 </tr>
@@ -116,15 +116,15 @@ Now with the <b>storekey</b> if there is no data stored then the page that says 
     <td style="">
        <h1>Data Validation :</h1>
        <p>
-       The  image can be choosen from the gallery or captured instantly to upload.<br>
+       The  image can be chosen from the gallery or captured instantly to upload.<br>
  A proper name for the product is given in the product name field.<br>
 <br>
 </br>
  The next field is the dropdown / dialog where it lets you to choose the type,the product falls in.<br>
- the next two are numerical input field where original and discount price is fed respectively.<br>
+ The next two are numerical input field where original and discount price is fed respectively.<br>
  <br></br>
  If we are done with the details of the product, save button is clicked. <br></br>
- On clicking empty fields are checked if any found it add a required flag to the particular field.<br></br>
+ On clicking empty fields are checked. If any found, it adds a required flag to the particular field.<br></br>
        </p>
     </td>
 </tr>
