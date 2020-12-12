@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "461212699435",
+    "project_id": "furnituremagik-6cefa",
+    "storage_bucket": "furnituremagik-6cefa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461212699435:android:a0d8f12fd67130ff71536e",
+        "android_client_info": {
+          "package_name": "com.furnituremagik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461212699435-lhaumsviu6r4chkcclpi3chp6924sjnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.furnituremagik",
+            "certificate_hash": "bee4f27fac11f89902517e2adc3512ea627b50ba"
+          }
+        },
+        {
+          "client_id": "461212699435-rl1gmojd62a0im3ds1kiuppvu7v26ttj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUxpo-dHkHfuHNBK9qjewn2QJ18M2yGBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461212699435-rl1gmojd62a0im3ds1kiuppvu7v26ttj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
